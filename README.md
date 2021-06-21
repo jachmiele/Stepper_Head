@@ -1,2 +1,2 @@
 # Stepper Head
-The purpose of this project was to designing a device which is used to slow and steady rotation of a camera.
+The purpose of this project was to make a device that slowly and steadily rotates the camera, which makes it possible to do timelapse photography.
